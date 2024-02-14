@@ -375,8 +375,8 @@ h3{
 }
 .content {
     position: relative;
-    z-index: 1; /* Ensure content appears on top of the video */
-    padding: 20px; /* Adjust as needed */
+    z-index: 1;
+    padding: 20px; 
     color: #fff;
 }
 video {
@@ -388,9 +388,9 @@ video {
     object-fit: cover;
 }
 
-/* Additional styling for your content elements */
+
 h1 {
-    color: #fff; /* Example text color on top of the video background */
+    color: #fff; 
 }
 #user{
 
